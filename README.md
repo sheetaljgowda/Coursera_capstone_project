@@ -1,2 +1,1 @@
-# Coursera_capstone_project
-Coursera capstone project
+Loan Classification with Python
